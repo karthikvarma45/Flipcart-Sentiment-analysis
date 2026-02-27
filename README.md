@@ -11,10 +11,8 @@ Trained model (sentiment_model.pkl)
 Jupyter Notebook (sentiment_task.ipynb)
 
 📁 *Project Structure*
-├── data.csv                  # Dataset containing product reviews
-├── sentiment_model.pkl       # Trained sentiment classification model
-├── sentiment_task.ipynb      # Jupyter notebook (EDA + Model training)
-└── README.md                 # Project documentation
+<img width="717" height="143" alt="image" src="https://github.com/user-attachments/assets/90c8d5d8-97d2-40b7-b5b0-23cf1ec264da" />
+
 
 *Data Insights*
 
